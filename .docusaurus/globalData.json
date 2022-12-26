@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1672072384813.json",
-        "lunrIndex": "lunr-index-1672072384813.json"
+        "searchDoc": "search-doc-1672073256065.json",
+        "lunrIndex": "lunr-index-1672073256065.json"
       }
     }
   },
@@ -24,8 +24,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "error",
+              "path": "/babylon-test/error",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation",
+              "path": "/babylon-test/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/babylon-test/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/babylon-test/introduction",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -19,7 +19,7 @@ export default [
   },
   {
     path: '/babylon-test/',
-    component: ComponentCreator('/babylon-test/', '8f1'),
+    component: ComponentCreator('/babylon-test/', 'dcc'),
     routes: [
       {
         path: '/babylon-test/',
@@ -30,6 +30,24 @@ export default [
       {
         path: '/babylon-test/chainbuilding',
         component: ComponentCreator('/babylon-test/chainbuilding', 'd9f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/babylon-test/error',
+        component: ComponentCreator('/babylon-test/error', 'fe3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/babylon-test/installation',
+        component: ComponentCreator('/babylon-test/installation', '946'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/babylon-test/introduction',
+        component: ComponentCreator('/babylon-test/introduction', 'b20'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

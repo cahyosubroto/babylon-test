@@ -1,0 +1,24 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "This article provides an overview of what Babylon is and how Babylon works on the Proof of Stake chains.",
+  "source": "@site/docs/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/babylon-test/introduction",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "introduction",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 2,
+    "pagination_prev": null,
+    "pagination_next": null,
+    "custom_edit_url": null
+  },
+  "sidebar": "tutorialSidebar"
+}

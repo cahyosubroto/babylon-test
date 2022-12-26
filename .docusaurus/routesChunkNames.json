@@ -20,7 +20,7 @@
     },
     "config": "5e9f5e1a"
   },
-  "/babylon-test/-8f1": {
+  "/babylon-test/-dcc": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "6fec0411"
@@ -34,5 +34,17 @@
   "/babylon-test/chainbuilding-d9f": {
     "__comp": "17896441",
     "content": "a3e02034"
+  },
+  "/babylon-test/error-fe3": {
+    "__comp": "17896441",
+    "content": "f9d25b73"
+  },
+  "/babylon-test/installation-946": {
+    "__comp": "17896441",
+    "content": "3b8c55ea"
+  },
+  "/babylon-test/introduction-b20": {
+    "__comp": "17896441",
+    "content": "a09c2993"
   }
 }
