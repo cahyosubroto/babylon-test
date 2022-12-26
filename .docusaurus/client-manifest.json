@@ -1,0 +1,255 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "289": [
+      85,
+      532,
+      918,
+      289
+    ],
+    "339": [
+      878,
+      339
+    ],
+    "343": [
+      532,
+      343
+    ],
+    "878": [
+      339,
+      878
+    ],
+    "972": [
+      972
+    ],
+    "17896441": [
+      289,
+      532,
+      918
+    ],
+    "main": [
+      303,
+      532,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      303
+    ],
+    "03181aef": [
+      876
+    ],
+    "0e384e19": [
+      671
+    ],
+    "1be78505": [
+      532,
+      972
+    ],
+    "1f391b9e": [
+      289,
+      532,
+      85
+    ],
+    "393be207": [
+      414
+    ],
+    "6fec0411": [
+      845
+    ],
+    "935f2afb": [
+      53
+    ],
+    "a3e02034": [
+      588
+    ],
+    "d16ef1ad": [
+      222
+    ],
+    "f8551aab": [
+      743
+    ],
+    "styles": [
+      85,
+      179,
+      289,
+      303,
+      343,
+      514,
+      918,
+      532
+    ]
+  },
+  "assets": {
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.0399395e.js",
+          "hash": "d7e0506c41969d45",
+          "publicPath": "/babylon-test/assets/js/935f2afb.0399395e.js"
+        }
+      ]
+    },
+    "85": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.89b72886.js",
+          "hash": "15c57cbe8888d0b0",
+          "publicPath": "/babylon-test/assets/js/1f391b9e.89b72886.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.59b07081.js",
+          "hash": "7dede1894801ea48",
+          "publicPath": "/babylon-test/assets/js/main.59b07081.js"
+        }
+      ]
+    },
+    "222": {
+      "js": [
+        {
+          "file": "assets/js/d16ef1ad.b9814244.js",
+          "hash": "e62136f92d700e42",
+          "publicPath": "/babylon-test/assets/js/d16ef1ad.b9814244.js"
+        }
+      ]
+    },
+    "289": {
+      "js": [
+        {
+          "file": "assets/js/289.4da5bd7e.js",
+          "hash": "a8e58b8c373771a6",
+          "publicPath": "/babylon-test/assets/js/289.4da5bd7e.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.0af1ff51.js",
+          "hash": "f7d675ff1fdc9eaf",
+          "publicPath": "/babylon-test/assets/js/runtime~main.0af1ff51.js"
+        }
+      ]
+    },
+    "339": {
+      "js": [
+        {
+          "file": "assets/js/339.26ebbdd2.js",
+          "hash": "3d6f573c41beea47",
+          "publicPath": "/babylon-test/assets/js/339.26ebbdd2.js"
+        }
+      ]
+    },
+    "343": {
+      "js": [
+        {
+          "file": "assets/js/343.85b4e183.js",
+          "hash": "2470d8218a776729",
+          "publicPath": "/babylon-test/assets/js/343.85b4e183.js"
+        }
+      ]
+    },
+    "414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.42913db1.js",
+          "hash": "43972bcadd2a4c77",
+          "publicPath": "/babylon-test/assets/js/393be207.42913db1.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.6d04f6ed.css",
+          "hash": "213686c23af4616a",
+          "publicPath": "/babylon-test/assets/css/styles.6d04f6ed.css"
+        }
+      ]
+    },
+    "588": {
+      "js": [
+        {
+          "file": "assets/js/a3e02034.f89a2fc0.js",
+          "hash": "c478427ba3e1886b",
+          "publicPath": "/babylon-test/assets/js/a3e02034.f89a2fc0.js"
+        }
+      ]
+    },
+    "671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.a01766b0.js",
+          "hash": "3b59bf317e5f8e90",
+          "publicPath": "/babylon-test/assets/js/0e384e19.a01766b0.js"
+        }
+      ]
+    },
+    "743": {
+      "js": [
+        {
+          "file": "assets/js/f8551aab.fa135156.js",
+          "hash": "1eefc76dc5531d21",
+          "publicPath": "/babylon-test/assets/js/f8551aab.fa135156.js"
+        }
+      ]
+    },
+    "845": {
+      "js": [
+        {
+          "file": "assets/js/6fec0411.34161ac7.js",
+          "hash": "fa6714777cfbe3a9",
+          "publicPath": "/babylon-test/assets/js/6fec0411.34161ac7.js"
+        }
+      ]
+    },
+    "876": {
+      "js": [
+        {
+          "file": "assets/js/03181aef.b348d1e0.js",
+          "hash": "db6f2bf593c466ed",
+          "publicPath": "/babylon-test/assets/js/03181aef.b348d1e0.js"
+        }
+      ]
+    },
+    "878": {
+      "js": [
+        {
+          "file": "assets/js/878.8003b40b.js",
+          "hash": "6bdd57ce1235cdae",
+          "publicPath": "/babylon-test/assets/js/878.8003b40b.js"
+        }
+      ]
+    },
+    "918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.535c2bae.js",
+          "hash": "b41529827e0dde58",
+          "publicPath": "/babylon-test/assets/js/17896441.535c2bae.js"
+        }
+      ]
+    },
+    "972": {
+      "js": [
+        {
+          "file": "assets/js/972.873b2fad.js",
+          "hash": "c8c6b6de236d282a",
+          "publicPath": "/babylon-test/assets/js/972.873b2fad.js"
+        },
+        {
+          "file": "assets/js/1be78505.1f1328b0.js",
+          "hash": "546d49ea90385ed0",
+          "publicPath": "/babylon-test/assets/js/1be78505.1f1328b0.js"
+        }
+      ]
+    }
+  }
+}

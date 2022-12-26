@@ -1,0 +1,38 @@
+{
+  "/babylon-test/markdown-page-4ac": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "d16ef1ad"
+    },
+    "content": "393be207"
+  },
+  "/babylon-test/my-markdown-page-054": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "d16ef1ad"
+    },
+    "content": "03181aef"
+  },
+  "/babylon-test/my-react-page-5f9": {
+    "__comp": "f8551aab",
+    "__context": {
+      "plugin": "d16ef1ad"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/babylon-test/-8f1": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "6fec0411"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/babylon-test/-195": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/babylon-test/chainbuilding-d9f": {
+    "__comp": "17896441",
+    "content": "a3e02034"
+  }
+}
