@@ -105,9 +105,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.6f0d81cc.js",
-          "hash": "4c6d0c592858b8d7",
-          "publicPath": "/babylon-test/assets/js/main.6f0d81cc.js"
+          "file": "assets/js/main.18d422c0.js",
+          "hash": "3875b77b667cf622",
+          "publicPath": "/babylon-test/assets/js/main.18d422c0.js"
         }
       ]
     },
@@ -133,7 +133,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.0af1ff51.js",
-          "hash": "dca3b82b6c0ace1c",
+          "hash": "a6be6543ea07a4c3",
           "publicPath": "/babylon-test/assets/js/runtime~main.0af1ff51.js"
         }
       ]
