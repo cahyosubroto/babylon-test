@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'babylonchain',
-  tagline: 'babylonchain test',
-  url: 'https://babylonchain.github.io/',
+  title: 'babylonchain-test',
+  tagline: 'babylonchain test for deploy',
+  url: 'https://cahyosubroto.github.io/',
   baseUrl: '/babylon-test/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'babylonchain', // Usually your GitHub org/user name.
+  organizationName: 'cahyosubroto', // Usually your GitHub org/user name.
   projectName: 'babylon-test', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,

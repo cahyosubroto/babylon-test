@@ -4,14 +4,14 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "babylonchain",
-  "tagline": "babylonchain test",
-  "url": "https://babylonchain.github.io",
+  "title": "babylonchain-test",
+  "tagline": "babylonchain test for deploy",
+  "url": "https://cahyosubroto.github.io",
   "baseUrl": "/babylon-test/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "babylonchain",
+  "organizationName": "cahyosubroto",
   "projectName": "babylon-test",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
